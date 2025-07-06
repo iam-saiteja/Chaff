@@ -66,6 +66,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - [@your\_twitter](https://twitter.com/your_twitter) - email@example.com
+Thanniru Sai Teja - [LinkedIn](https://www.linkedin.com/in/thannirusaiteja) - iamsaitejathanniru@gmail.com
 
 Project Link: [https://github.com/iam-saiteja/Chaff](https://github.com/iam-saiteja/Chaff)
